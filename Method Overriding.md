@@ -38,3 +38,4 @@ Result = ["fish", "shark"]
 
 
 ## RESULT
+Thus the program is run successfully
